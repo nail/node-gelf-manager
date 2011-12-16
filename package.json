@@ -1,0 +1,23 @@
+{
+  "author": "Renaud Drousies",
+  "name": "gelf-manager",
+  "description": "Raw GELF messages handling (https://github.com/Graylog2/graylog2-docs/wiki/GELF)",
+  "homepage": "https://github.com/nail/node-gelf-manager",
+  "version": "0.1.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nail/node-gelf-manager.git"
+  },
+  "main": "./lib/gelf-manager.js",
+  "engines": {
+    "node": "0.6"
+  },
+  "dependencies": {
+    "buffertools": ">=1.0.0"
+  },
+  "devDependencies": {},
+  "licenses":
+  [ { "type": "MIT",
+      "url": "https://github.com/nail/node-gelf-manager/blob/master/LICENSE" }
+  ]
+}
