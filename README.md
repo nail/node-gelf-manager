@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/nail/node-gelf-manager.png)](http://travis-ci.org/nail/node-gelf-manager)
 # node-gelf-manager
 
 Manages raw [GELF messages](https://github.com/Graylog2/graylog2-docs/wiki/GELF).
